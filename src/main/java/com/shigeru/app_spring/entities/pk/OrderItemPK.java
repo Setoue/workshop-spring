@@ -1,5 +1,6 @@
 package com.shigeru.app_spring.entities.pk;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.shigeru.app_spring.entities.Order;
 import com.shigeru.app_spring.entities.Product;
 import jakarta.persistence.Embeddable;
